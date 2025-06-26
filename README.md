@@ -3,7 +3,7 @@
 "NAME":THANUKKA S           
 "INTERN ID":CITS0D534
 "DOMAIN":ARITIFICIAL INTELLIGENCE 
-"DURATION":4 WEEKS
+"DURATION":4 WEEKS                
 "MENTOR":NEELA SANTHOSH 
 "DESCRIPTION":
 This task is Generative text model using GPT.The code is about Dhoni to paragraph.
